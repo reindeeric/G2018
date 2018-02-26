@@ -1,0 +1,6 @@
+Gate,Gatetype,Input 1,Input 2,Input 3
+1,AND,B,C,-
+2,NOT,B,-,-
+3,NOR,A,1,-
+4,NAND,2,A,-
+5,NOR,3,4,-
